@@ -33,11 +33,6 @@ public class PTra01_07 {
 
 
 
-
-
-
-
-
 		// ★ それぞれの変数の中身を出力してください
 		System.out.println(bo);
 		System.out.println(by);
